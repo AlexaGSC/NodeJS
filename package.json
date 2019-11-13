@@ -1,0 +1,14 @@
+{
+  "name": "repaso",
+  "version": "1.0.0",
+  "description": "Proyecto de repaso",
+  "main": "index.js",
+  "scripts": {
+    "texto": "node script.js"
+  },
+  "author": "Alexa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "repaso",
+  "version": "1.0.0",
+  "description": "Proyecto de repaso",
+  "main": "index.js",
+  "scripts": {
+    "run": "Holaa"
+  },
+  "author": "Alexa",
+  "license": "ISC"
+}
